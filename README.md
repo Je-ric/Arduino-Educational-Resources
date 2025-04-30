@@ -14,9 +14,9 @@ Each folder represents a lesson or project from the Arduino 101 curriculum. The 
 
 ## 🛠 Requirements
 
-- **Arduino UNO** or compatible board  
-- **USB Cable** (Type A to B)  
-- **Basic Components**: LEDs, resistors, pushbuttons, buzzer, sensors, LCD, ESP8266 module  
+- **Arduino UNO** 
+- **USB Cable**  
+- **Basic Components**
 - **[Arduino IDE](https://www.arduino.cc/en/software)**
 
 ---
